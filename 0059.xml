@@ -1,0 +1,354 @@
+<?xml version="1.0"?>
+<Event_General_Info>
+	<savefile>0059.xml</savefile>
+	<ID>0059</ID>
+	<Name>IB Assembly September</Name>
+	<Message>Welcome.</Message>
+	<Brand>Tamagawa Academy IB Technology Support</Brand>
+	<Brand_Title>Tech Supported by</Brand_Title>
+	<Start_Hour>12</Start_Hour>
+	<Start_Minute>45</Start_Minute>
+	<End_Hour>13</End_Hour>
+	<End_Minute>16</End_Minute>
+</Event_General_Info>
+<Video_Output>
+	<Video_Out:_SPOUT>0</Video_Out:_SPOUT>
+	<Video_Out:_LOCAL>0</Video_Out:_LOCAL>
+	<OBS:_Background>0</OBS:_Background>
+	<Background_Type>0</Background_Type>
+	<OBS:_Title>0</OBS:_Title>
+	<OBS:_Message>0</OBS:_Message>
+	<OBS:_Agenda>0</OBS:_Agenda>
+	<OBS:_Seat_Plan>0</OBS:_Seat_Plan>
+	<Camera_Position>0</Camera_Position>
+	<OBS:_Logo>0</OBS:_Logo>
+	<Logo_Type>0</Logo_Type>
+	<PG:_Now>0</PG:_Now>
+	<PG:_Next>0</PG:_Next>
+	<Maximum_FPS>30</Maximum_FPS>
+</Video_Output>
+<Contents_Editor_5>
+	<Name>Musical Item</Name>
+	<Description>from IBeetles</Description>
+	<Speaker>Mr. Maoate, Takuto</Speaker>
+	<Start_Hour>13</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>13</End_Hour>
+	<End_Minute>5</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_5>
+<Contents_Editor_1>
+	<Name>Introductions</Name>
+	<Description>New Teachers and Students</Description>
+	<Speaker>Mr. Maoate</Speaker>
+	<Start_Hour>12</Start_Hour>
+	<Start_Minute>45</Start_Minute>
+	<End_Hour>12</End_Hour>
+	<End_Minute>50</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_1>
+<Contents_Editor_2>
+	<Name>Grade 11 Representatives</Name>
+	<Description>from DP</Description>
+	<Speaker>Mr. Furnival</Speaker>
+	<Start_Hour>12</Start_Hour>
+	<Start_Minute>50</Start_Minute>
+	<End_Hour>12</End_Hour>
+	<End_Minute>55</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_2>
+<Contents_Editor_3>
+	<Name>Get Caught Reading</Name>
+	<Description>All you need is book</Description>
+	<Speaker>Shohei Matsuda (G12)</Speaker>
+	<Start_Hour>12</Start_Hour>
+	<Start_Minute>55</Start_Minute>
+	<End_Hour>12</End_Hour>
+	<End_Minute>58</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_3>
+<Contents_Editor_4>
+	<Name>Closing</Name>
+	<Description />
+	<Speaker />
+	<Start_Hour>12</Start_Hour>
+	<Start_Minute>58</Start_Minute>
+	<End_Hour>13</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_4>
+<Contents_Editor_6>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_6>
+<Contents_Editor_7>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_7>
+<Contents_Editor_8>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_8>
+<Contents_Editor_9>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_9>
+<Contents_Editor_10>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_10>
+<Contents_Editor_11>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_11>
+<Contents_Editor_12>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_12>
+<Contents_Editor_13>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_13>
+<Contents_Editor_14>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_14>
+<Contents_Editor_15>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_15>
+<Contents_Editor_16>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_16>
+<Contents_Editor_17>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_17>
+<Contents_Editor_18>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_18>
+<Contents_Editor_19>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_19>
+<Contents_Editor_20>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_20>
+<Contents_Editor_21>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_21>
+<Contents_Editor_22>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_22>
+<Contents_Editor_23>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_23>
+<Contents_Editor_24>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_24>
+<Contents_Editor_25>
+	<Name></Name>
+	<Description></Description>
+	<Speaker></Speaker>
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video></Note:_Video>
+	<Note:_Sound></Note:_Sound>
+	<Note:_Light></Note:_Light>
+	<Note:_General></Note:_General>
+</Contents_Editor_25>

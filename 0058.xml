@@ -1,0 +1,354 @@
+<?xml version="1.0"?>
+<Event_General_Info>
+	<savefile>0058.xml</savefile>
+	<ID>0058</ID>
+	<Name>IB Homecoming Day 2018</Name>
+	<Message>Welcome!</Message>
+	<Brand>Tamagawa Academy IB Technology Support</Brand>
+	<Brand_Title>Tech Supported by</Brand_Title>
+	<Start_Hour>11</Start_Hour>
+	<Start_Minute>45</Start_Minute>
+	<End_Hour>12</End_Hour>
+	<End_Minute>35</End_Minute>
+</Event_General_Info>
+<Video_Output>
+	<Video_Out:_SPOUT>1</Video_Out:_SPOUT>
+	<Video_Out:_LOCAL>0</Video_Out:_LOCAL>
+	<OBS:_Background>1</OBS:_Background>
+	<Background_Type>4</Background_Type>
+	<OBS:_Title>1</OBS:_Title>
+	<OBS:_Message>0</OBS:_Message>
+	<OBS:_Agenda>0</OBS:_Agenda>
+	<OBS:_Seat_Plan>0</OBS:_Seat_Plan>
+	<Camera_Position>0</Camera_Position>
+	<OBS:_Logo>1</OBS:_Logo>
+	<Logo_Type>1</Logo_Type>
+	<PG:_Now>0</PG:_Now>
+	<PG:_Next>0</PG:_Next>
+	<Maximum_FPS>30</Maximum_FPS>
+</Video_Output>
+<Contents_Editor_3>
+	<Name>Music Performance</Name>
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_3>
+<Contents_Editor_1>
+	<Name>Introduction</Name>
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_1>
+<Contents_Editor_2>
+	<Name>Group Discussion</Name>
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_2>
+<Contents_Editor_4>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_4>
+<Contents_Editor_5>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_5>
+<Contents_Editor_6>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_6>
+<Contents_Editor_7>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_7>
+<Contents_Editor_8>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_8>
+<Contents_Editor_9>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_9>
+<Contents_Editor_10>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_10>
+<Contents_Editor_11>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_11>
+<Contents_Editor_12>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_12>
+<Contents_Editor_13>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_13>
+<Contents_Editor_14>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_14>
+<Contents_Editor_15>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_15>
+<Contents_Editor_16>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_16>
+<Contents_Editor_17>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_17>
+<Contents_Editor_18>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_18>
+<Contents_Editor_19>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_19>
+<Contents_Editor_20>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_20>
+<Contents_Editor_21>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_21>
+<Contents_Editor_22>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_22>
+<Contents_Editor_23>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_23>
+<Contents_Editor_24>
+	<Name />
+	<Description />
+	<Speaker />
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video />
+	<Note:_Sound />
+	<Note:_Light />
+	<Note:_General />
+</Contents_Editor_24>
+<Contents_Editor_25>
+	<Name></Name>
+	<Description></Description>
+	<Speaker></Speaker>
+	<Start_Hour>0</Start_Hour>
+	<Start_Minute>0</Start_Minute>
+	<End_Hour>0</End_Hour>
+	<End_Minute>0</End_Minute>
+	<Note:_Video></Note:_Video>
+	<Note:_Sound></Note:_Sound>
+	<Note:_Light></Note:_Light>
+	<Note:_General></Note:_General>
+</Contents_Editor_25>
